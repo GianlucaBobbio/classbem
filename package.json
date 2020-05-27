@@ -1,0 +1,19 @@
+{
+  "name": "classbem",
+  "version": "1.0.0",
+  "description": "Classname selector builder with BEM methodology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaBobbio/classbem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianlucaBobbio/classbem/issues"
+  },
+  "homepage": "https://github.com/GianlucaBobbio/classbem#readme"
+}
