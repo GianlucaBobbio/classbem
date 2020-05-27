@@ -1,9 +1,6 @@
 /* eslint-disable no-undef */
 const classbem = require("../src/classbem");
 
-const classNameMock = "example-button";
-const classNameMock2 = "catalog-button";
-
 describe("classbem", () => {
   describe("block", () => {
     it("should return base block", () => {
